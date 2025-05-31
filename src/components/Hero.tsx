@@ -7,7 +7,7 @@ const Hero = () => {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 to-blue-50 px-6">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8 animate-fade-in">
-          <h1 className="text-6xl md:text-7xl font-bold text-slate-900 mb-6 tracking-tight">
+          <h1 className="text-6xl md:text-7xl font-medium text-slate-900 mb-6 tracking-tight">
             MK.AI
           </h1>
           <p className="text-xl md:text-2xl text-slate-600 mb-8 font-light leading-relaxed max-w-3xl mx-auto">
